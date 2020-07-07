@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< master
 <<<<<<< master
 asdasd
@@ -7,3 +8,6 @@ asd
 =======
 asdasd
 >>>>>>> f2 3
+=======
+asdasd
+>>>>>>> feature2
